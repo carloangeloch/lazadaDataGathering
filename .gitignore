@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/output
+/venv
+laz_url.csv
+data_test2.json
+data_test.json
+testing.py
